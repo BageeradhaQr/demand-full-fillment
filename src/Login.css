@@ -1,0 +1,35 @@
+body {
+    background-color:chartreuse;
+    color: white;
+    padding: 40px;
+    font-family: Arial;
+    text-align: center;
+    font-weight: bolder;
+    font-size: large;
+
+}
+
+.forgetpass
+{
+    color:red;
+    font-size: small;
+}
+
+.newacct
+{
+    color:green;
+    font-size: small;
+}
+
+.button {
+    background-color: skyblue;
+    color:white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+}
+
+.button:hover {
+    opacity: 0.8;
+}
